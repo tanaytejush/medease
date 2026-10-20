@@ -99,3 +99,8 @@ cd admin && npm install && npm run dev
 ## Security note
 
 Never commit `.env` files or real keys. Keep all secrets in environment variables.
+
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
